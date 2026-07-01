@@ -33,7 +33,6 @@ This project is an interactive HR Salary Analysis Dashboard built entirely in **
 
 - 🎛️ Interactive Filters
   - Slicers
-  - Timeline (if applicable)
 
 - 📍 Dynamic Dashboard
   - All charts update automatically based on selected filters.
@@ -47,7 +46,6 @@ This project is an interactive HR Salary Analysis Dashboard built entirely in **
 - Pivot Charts
 - Slicers
 - Timeline
-- Excel Formulas
 - Conditional Formatting
 
 ---
@@ -82,36 +80,6 @@ HR Salary Analysis.xlsb
 
 ---
 
-## 📸 Dashboard Preview
-
-> Add screenshots of the dashboard here.
-
-Example:
-
-```
-images/
-├── dashboard.png
-├── salary_analysis.png
-└── filters.png
-```
-
-Then display them:
-
-```md
-![Dashboard](images/dashboard.png)
-
-![Analysis](images/salary_analysis.png)
-```
-
----
-
-## 🚀 How to Use
-
-1. Download the Excel workbook.
-2. Open it using Microsoft Excel (2019 or Microsoft 365 recommended).
-3. Navigate to the **Dashboard** sheet.
-4. Use the Slicers and Timeline to explore the data interactively.
-
 ---
 
 ## 💡 Skills Demonstrated
@@ -123,7 +91,6 @@ Then display them:
 - HR Analytics
 - Pivot Tables
 - Interactive Reporting
-- Business Intelligence using Excel
 
 ---
 
